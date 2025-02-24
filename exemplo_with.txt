@@ -1,0 +1,2 @@
+ola estou escrevendo no arquivo
+essa é a segunda linha do arquivo
