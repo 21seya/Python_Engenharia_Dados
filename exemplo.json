@@ -1,0 +1,14 @@
+{
+    "Rodrigo": {
+        "CPF": "222.222.333-47",
+        "Sexo": "Masculino",
+        "Endereco": "Rua maranhoes",
+        "Idade": 34
+    },
+    "Ferando": {
+        "CPF": "111.333.444-47",
+        "Sexo": "Masculino",
+        "Endereco": "Rua souza",
+        "Idade": 30
+    }
+}
