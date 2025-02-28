@@ -1,0 +1,6 @@
+Nome,Parentesco
+Pedro,Avó
+Maria,Avô
+Joao,Pai
+Ana,Mãe
+Joaquim,Filho
